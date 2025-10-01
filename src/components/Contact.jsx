@@ -39,13 +39,13 @@ const Contact = () => {
 		
 		<div>
 		 <h3>Visit Our Bar</h3>
-		 <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+		 <p>I-586, Alpha-2. #404,  Greater Noida, PC 201310</p>
 		</div>
 		
 		<div>
 		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
-		 <p>hello@jsmcocktail.com</p>
+		 <p>XXXXXXX625</p>
+		 <p>hello@dhruvcocktail.com</p>
 		</div>
 		
 		<div>
